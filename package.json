@@ -1,0 +1,11 @@
+{
+  "name": "kidMarket",
+  "version": "1.0.0",
+  "description": "A simulated kid market for the trading of naughty kids.",
+  "author": "Christopher Hotchkiss <christopher.hotchkiss@gmail.com>",
+  "private": true,
+  "license": "Unlicense",
+  "devDependencies": {
+    "browser-sync": "^2.10.0"
+  }
+}
